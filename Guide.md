@@ -71,6 +71,6 @@ You can start the Plague Star bounty by selecting it from Konzu in Cetus.
 + The Hemocyte is most weak to Corrosive and Blast damage.
 + Warframes that can slow/pause enemy movement (Eg. Nova, Rhino) are capable of extending the Hemocyte's vulnerable states.
 + A healing Warframe is recommended due to the gas clouds frequently encountered while fighting the Hemocyte.
-+ Standing on the Boil or the rocks surrounding it will inflict a deadly Toxin status on the player. This can be useful when using Harrow.
++ Standing on the Boil or the rocks surrounding it will inflict a deadly Toxin status on the player. This can be useful when using Harrow or Chroma.
 
 
