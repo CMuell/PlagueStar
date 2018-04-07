@@ -72,5 +72,6 @@ You can start the Plague Star bounty by selecting it from Konzu in Cetus.
 + Warframes that can slow/pause enemy movement (Eg. Nova, Rhino) are capable of extending the Hemocyte's vulnerable states.
 + A healing Warframe is recommended due to the gas clouds frequently encountered while fighting the Hemocyte.
 + Standing on the Boil or the rocks surrounding it will inflict a deadly Toxin status on the player. This can be useful when using Harrow or Chroma.
++ It is MUCH better to use fast firing weapons such as Soma Prime and Tenora, rather than slow firing weapons such as Sniper Rifles. This is because the Hemocyte has a per shot damage cap; Meaning only a certain amount of damage can be done per projectile/hit.
 
 
